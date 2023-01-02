@@ -5,7 +5,7 @@
 - 🤔 I'm interested in any type of technology that aims for progress, innovation and sustainability
 - ⚡ Fun fact: I love to do rock climbing
 
-## 🌐Socials
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-guerreiro-343aa0119) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/gguerreiro2237) 
 
 # 💻 Tech Stack
